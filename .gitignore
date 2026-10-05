@@ -1,0 +1,26 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+env/
+venv/
+ENV/
+.venv/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output media (opcional se quiser versionar apenas amostras das tirinhas)
+# mini_atividade_1/xkcd/tirinhas/*.png
