@@ -1,0 +1,1251 @@
+[
+  {
+    "titulo": "Administrando Banco de Dados",
+    "area_tema": "Administração",
+    "descricao_resumo": "Neste curso, você verá uma introdução de como administrar um banco de dados e, desta forma, conseguir realizar um bom gerenciamento das atividades inerentes a essa função. Além disso, você conhecerá os conceitos que fazem parte do dia a dia de um administrador de banco de dados, os modelos de dados, SQL, esquemas, instâncias, tabelas e todo esse fascinante universo que envolve os bancos de dados! Você entenderá as diferenças entre os diversos profissionais que atuam em atividades ligadas à gerência de banco de dados, bem como quais são os tipos mais utilizados e adequados a empresas de qualquer porte. Os conhecimentos adquiridos neste curso poderão ajudá-lo(a) a ingressar na carreira de administração de banco de dados.",
+    "carga_horaria": "15h",
+    "nivel_dificuldade": "Avançado",
+    "link_curso": "https://www.ev.org.br/cursos/administrando-banco-de-dados",
+    "conteudo": [
+      "Módulo 1 – Administrador de banco de dados",
+      "Módulo 2 – Arquitetura de um Sistema Geral de Banco de Dados (SGBD)",
+      "Módulo 3 – Gerenciamento e manutenção de sistemas de dados",
+      "Módulo 4 – Procedimentos administrativos"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "AI-900 - Fundamentos de IA no Azure",
+    "area_tema": null,
+    "descricao_resumo": "A certificação AI-900, ou Microsoft Azure AI Fundamentals,é essencial para os profissionais que querem aplicar a inteligência artificial (IA) no ecossistema do Azure.O objetivo deste curso é apresentar os serviços de IA do Azure que são funcionalidades de IA que podem ser incorporados a aplicativos web ou móveis. Este curso com 5 módulosfoi desenhado para que você tenha acesso às melhores informações para se aprofundar nos conhecimentos e começar a praticar o uso da Inteligência Artificial, podendo até se preparar para certificações oficiais. Desenvolvido pelos especialistas da Microsoft, cada módulo é composto por videoaulas, transcrição dos vídeos, apostilas das aulas, artigos e links para saber ainda mais sobre cada tema.",
+    "carga_horaria": "16h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/AI900Azure",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia do curso FluêncIA.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Análise de Balanços",
+    "area_tema": "Administração",
+    "descricao_resumo": "O curso de Análise de Balanços mostra como você deve olhar para o retrato financeiro de uma empresa - o chamado Balanço Patrimonial -, e compreendê-lo. Esse método é considerado o mais rápido, eficiente e abrangente para produzir informações úteis que podem ajudar na tomada de decisões. Nosso objetivo é apresentar técnicas de análise para ajudá-lo nessa interpretação indispensável para fazer, inclusive, a Necessidade de Capital de Giro, ferramenta essencial na hora de prospectar novos negócios. No total, são 10 módulos de conteúdos indicados para todos que desejam se aprofundar um pouco mais no mundo da administração.",
+    "carga_horaria": "10h",
+    "nivel_dificuldade": "Avançado",
+    "link_curso": "https://www.ev.org.br/cursos/Analise-de-Balan%C3%A7os",
+    "conteudo": [],
+    "detalhes": {
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Análise de Dados no Power BI",
+    "area_tema": "Administração",
+    "descricao_resumo": "Este é o quinto - e último - curso da trilha que está disponível na Escola Virtual sobre o Power BIque, em resumo, é uma coleção de serviços de software, aplicativos e conectores que funcionam juntos para tornar fontes de dados não relacionadas em informações coerentes, visualmente imersivas e interativas. A análise de dados pode transformar dados brutos em uma ampla coleção de informações e, com essas informações, você pode criar modelos de dados, traçar planos e fazer previsões que podem ajudar a tomar melhores decisões empresariais e a criar resultados significativos! Neste curso, você vai aprender a: usar mais recursos, como P e R (que permite aos usuários obter respostas diretas para as perguntas que eles fazem usando as próprias palavras), para aperfeiçoar os insights analíticos dos dados encontrar fatores importantes com o visual Principais Influenciadores, para entender os fatores que afetam uma métrica específica usar o visual de Árvore Hierárquica, para que os usuários possam ver seus dados em várias dimensões, realizando uma análise de causa-raiz. Além disso, verá também como classificar os dados e apresentar relatórios de maneira coesa.",
+    "carga_horaria": "4h",
+    "nivel_dificuldade": "Avançado",
+    "link_curso": "https://www.ev.org.br/cursos/analise-de-dados-no-power-bi",
+    "conteudo": [
+      "Módulo 1 – Executar análise no Power BI",
+      "Módulo 2 – Trabalhar com visuais de IA no Power BI"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "- Ter conhecimento em Banco de Dados. - Ter uma conta na Microsoft.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Atendimento ao Público",
+    "area_tema": null,
+    "descricao_resumo": "O objetivo deste curso é apresentar noções de atendimento, suas diferentes formas e técnicas, e, principalmente, o que é preciso fazer para que uma pessoa se sinta bem atendida. Para isso, você é convidado(a) a refletir sobre a essência dessa atividade tão presente em nossa rotina e tão importante para muitas áreas de negócio, independentemente da forma de contato: pessoalmente, por telefone ou Internet. Dividido em quatro módulos, nosso curso apresenta conteúdos que mostram, entre outras abordagens, o quanto ouvir atentamente faz toda a diferença na hora de atender, assim como a importância de realizarmos essa atividade mostrando – e sentindo – toda a importância que ela tem. E as dicas não param por aí. Apresentamos técnicas para lidar com a percepção do público, clientes problemáticos e eventuais situações complicadas que podem ocorrer durante um atendimento. Ao longo dos estudos, você deverá responder a perguntas de acompanhamento e realizar atividades de fixação. Tudo para ajudá-lo(a) na importante missão de compreender a arte de atender bem!",
+    "carga_horaria": "10h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/atendimento-ao-publico",
+    "conteudo": [
+      "Módulo 1 – As ferramentas",
+      "Módulo 2 – O público e os problemas",
+      "Módulo 3 – Como sou e como posso me comportar",
+      "Módulo 4 – O atendimento e a sua importância"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Como Conseguir um Novo Emprego",
+    "area_tema": null,
+    "descricao_resumo": "O mercado de trabalho está cada vez mais competitivo, é recomendável que todos os candidatos a um novo emprego estejam aptos a entrar nesta concorrência bem preparados. O curso aborda o passo a passo para que você se prepare e se destaque na busca de um novo emprego. Você aprenderá a elaborar um currículo atrativo, localizar de forma eficaz as melhores vagas de emprego, como se preparar para uma entrevista de trabalho e criar um perfil no LinkedIn.",
+    "carga_horaria": "4h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/Como-Conseguir-um-Novo-Emprego",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Comunicação e Mobilização com IA",
+    "area_tema": null,
+    "descricao_resumo": "O curso Comunicação e Mobilização com IA apresenta como as organizações do Terceiro Setor podem superar desafios de comunicação e captação de recursos por meio da inteligência artificial. Muitas ONGs enfrentam dificuldades em produzir conteúdos consistentes, personalizar mensagens e mensurar o impacto de suas ações. A proposta do curso é mostrar que a transformação digital deixou de ser uma opção e se tornou uma necessidade estratégica para ampliar o impacto social, otimizar recursos e fortalecer a mobilização. Para isso, por meio de um Webinário o conteúdo aborda benefícios práticos do uso da IA, como criação e adaptação de textos para diferentes públicos e canais, simplificação de informações complexas, tradução, geração de ideias para campanhas e planejamento estratégico. Também apresenta o Copilot da Microsoft como diferencial, além da técnica do “briefing perfeito” para gerar melhores resultados em prompts. Detalhes: Curso livre de 2 horas Acesso 100% online Estude no seu próprio ritmo Conteúdo Estruturado Webinário cuidadosamente planejado Explore as infinitas possibilidades da IA para superar os desafios da comunicação",
+    "carga_horaria": "2h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/comunicacao_IA",
+    "conteudo": [
+      "Benefícios específicos da IA",
+      "Democratização de tecnologias avançadas como a IA",
+      "Comunicação estratégica",
+      "Adoção inteligente de tecnologias como a IA",
+      "Técnica PERFEITA",
+      "O diferencial do Copilot"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia do curso FluêncIA - Inteligência Artificial.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Comunicação Empresarial",
+    "area_tema": null,
+    "descricao_resumo": "O processo de comunicação nas organizações é importante para a imagem dela perante funcionários, fornecedores, clientes, órgãos governamentais e a sociedade como um todo. Todo profissional, em algum momento, será solicitado a se expressar e terá de \"vender\" suas ideias, seja redigindo um texto ou elaborando uma apresentação, pessoalmente ou à distância. É preciso estar preparado. Dentro deste contexto, este curso tem como objetivo mostrar a você a importância de desenvolver a capacidade de se comunicar bem, tanto na forma escrita quanto na forma oral, como fator de diferenciação no mercado de trabalho.",
+    "carga_horaria": "12h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/comunicacao-empresarial",
+    "conteudo": [
+      "Capítulo 1 – Comunicação nas organizações",
+      "Capítulo 2 – Documentos empresariais",
+      "Capítulo 3 – Interpretando dados"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Comunicação Escrita: Ortografia, Gramática e Texto",
+    "area_tema": null,
+    "descricao_resumo": "O curso Comunicação Escrita: Ortografia, Gramática e Texto foi desenvolvido para fortalecer a escrita com clareza, correção e segurança, contribuindo para uma comunicação mais eficaz no contexto pessoal e profissional. O conteúdo contempla temas essenciais como verbos, pronomes e nomes, além de elementos de conexão e coesão textual. Também aborda o uso correto de abreviaturas, símbolos e siglas, regras de ortografia e as principais orientações sobre acentuação, crase e pontuação, sempre alinhado ao Novo Acordo Ortográfico. Parte dos fundamentos da escrita com qualidade e orienta o estudante na organização e construção de textos adequados ao perfil do leitor e à intenção comunicativa. Com foco prático, o curso oferece diversos exercícios e atividades aplicadas que favorecem a fixação dos conteúdos e o desenvolvimento da escrita no dia a dia, tornando o aprendizado dinâmico e diretamente aplicável às situações reais de comunicação.",
+    "carga_horaria": "16h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/comunicacao_escrita",
+    "conteudo": [
+      "Introdução",
+      "Escrita com Qualidade",
+      "Verbos",
+      "Pronomes",
+      "Os nomes e as suas relações",
+      "Elementos de Conexão e Coesão Textual",
+      "Abreviaturas, Símbolos e Siglas",
+      "Ortografia",
+      "Qualidades do Texto",
+      "Acentuação, Crase e Pontuação"
+    ],
+    "detalhes": {
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Conceitos de Aprendizagem Criativa",
+    "area_tema": null,
+    "descricao_resumo": "A Aprendizagem Criativa é uma abordagem pedagógica que busca desenvolver conexões pessoais na qual o professor cria um ambiente propício ao estímulo da criatividade, da imaginação e da colaboração, buscando, assim, despertar os interesses dos estudantes. Esse curso tem como objetivo apresentar os conceitos básicos relacionados a essa abordagem pedagógica, além de mostrar as formas como ela pode ser utilizada na promoção de processos mais criativos de ensino e aprendizados mais relevantes para os alunos. O curso começa explorando as Metodologias Ativas e o Ensino Mão na Massa, que estão intimamente ligados à Aprendizagem Criativa. Além de abordar conceitualmente esses tópicos, vamos entender como eles podem ser desenvolvidos nas atividades escolares.",
+    "carga_horaria": "6h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/conceitos-de-aprendizagem-criativa",
+    "conteudo": [
+      "Módulo 1 – Introdução às Metodologias Ativas",
+      "Módulo 2 – Ensino Mão na Massa",
+      "Módulo 3 – Espiral e os 4 Ps da Aprendizagem Criativa",
+      "Módulo 4 – Os micromundos da Aprendizagem Criativa"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "18",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Construindo minha Proteção Financeira",
+    "area_tema": null,
+    "descricao_resumo": "A Escola Virtual da Fundação Bradescoe aBradesco Segurosqueremapoiar você em sua trajetória financeira, de forma a orientá-lo e conscientizá-lo sobre fatores importantes nesteprocesso de reeducação com o dinheiro e controle de suas despesas. Você aprenderá a administrar as suas finanças por meio do planejamento e organização, realizando o mapeamento de gastos, ganhos e compromissos financeiros com a intenção de atingir um objetivo. A nossa proposta éprovocar reflexõesrelevantes que façam você questionar o seu estilo de vida atual e o que pode ser diferente em seu futuro. Tornar-se consciente sobre alguns de seus costumes e hábitos é um caminho que promoverá uma profunda reflexão, possibilitando mudanças, de forma que você entenda queadministrar as suas finanças não é só uma necessidade, mas uma escolha para um futuro melhor. É a partir da construção de novos hábitos que convidamos você para umajornada de aprendizagemque transformará a sua visão de planejamento futuro e financeiro.",
+    "carga_horaria": "2h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/Construindo-minha-Protecao-Financeira",
+    "conteudo": [
+      "Introdução",
+      "Módulo 1 – Como administrar minhas finanças?",
+      "Módulo 2 – Abundância Financeira e Segura"
+    ],
+    "detalhes": {
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Contabilidade Empresarial",
+    "area_tema": "Administração",
+    "descricao_resumo": "Com o objetivo de apresentar noções básicas da Contabilidade Empresarial, este curso revela-se útil para diversos profissionais, como analistas, investidores, administradores e todos que desejam entender como é feita a contabilidade e porque ela é tão importante para a gestão de uma empresa, independentemente do seu tamanho. Para começar, o curso apresenta os princípios contábeis, e a própria definição do que é a contabilidade. Você passará pelas principais alterações das leis e pelos conceitos que compõem as demonstrações contábeis, sua apresentação e respectivas classificações. Além da teoria, você também aprenderá por meio de exemplos e exercícios que o ajudarão a fixar os ensinamentos que estão divididos em seis módulos. A contabilidade o ajudará em suas avaliações e tomadas de decisões econômicas.",
+    "carga_horaria": "10h",
+    "nivel_dificuldade": "Avançado",
+    "link_curso": "https://www.ev.org.br/cursos/Contabilidade-Empresarial",
+    "conteudo": [],
+    "detalhes": {
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Controle de Impulso e Manejo de Raiva, Vergonha e Inveja",
+    "area_tema": null,
+    "descricao_resumo": "Você já parou para pensar o que se passa em nossa cabeça quando estamos com raiva? Tudo acontece muito rápido, mas o sentimento da raiva está acompanhado de diversas avaliações: de quem é a culpa, qual a intenção da pessoa responsável pelo sentimento, qual a intensidade do dano provocado e, até mesmo, se vale a pena reagir com raiva. Mas é possível controlar a raiva? A resposta é sim! E o melhor: quando controlada, ela pode produzir a energia necessária para esclarecer os incômodos e buscar soluções apropriadas. Quando a raiva funciona dessa forma, dizemos que se trata da raiva saudável ou raiva assertiva. Nesse caso, a raiva busca atacar suas próprias causas. Em vez de responder com violência e impulsividade (o que só piora a situação), ela se volta para os eventos que a originaram. Outras duas emoções que trataremos neste curso são a vergonha e a inveja. Ninguém gosta de sentir vergonha, não é mesmo? E a inveja é tão complicada para nós que, muitas vezes, nem admitimos sentir inveja de alguém. É muito importante conhecer essas emoções e aprender a lidar com elas. Isso pode ajudar, diante de uma situação que nos faz mal e nos deixa incomodados, a recuperar a calma – essa, sim, uma emoção geralmente tida como positiva, mas que nem sempre é tão valorizada como deveria. Neste curso, vamos aprender estratégias bem efetivas para lidar com esses sentimentos!",
+    "carga_horaria": "4h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/controle-de-impulso-e-manejo-de-raiva-vergonha-e-inveja",
+    "conteudo": [
+      "Aula 1 – Raiva e seus estados",
+      "Aula 2 – Vergonha e inveja",
+      "Aula 3 – Manejo da raiva",
+      "Aula 4 – Controle de impulso"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Crie um site simples usando HTML, CSS e JavaScript",
+    "area_tema": null,
+    "descricao_resumo": "Neste curso, você terá as informações fundamentais para trabalhar com o desenvolvimento para a Web, aprendendo a usar HTML, CSS e JavaScript para criar sites ou aplicativos da Web, que parecem e funcionam como aplicativos nativos, mas que são executados em seu navegador de Internet. Você conhecerá os componentes básicos de um website e as ferramentas que poderá usar para iniciar o desenvolvimento Web para trabalhar digitalmente, de forma eficaz e segura. Se você estiver interessado em iniciar o desenvolvimento Web pode se deparar com uma variedade de opções disponíveis no mercado. Então, os conhecimentos obtidos neste curso serão muito importantes para que você possa ter um contexto para tomar decisões sobre como escolher estruturas JavaScript para construir seu site!",
+    "carga_horaria": "2h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/crie-um-site-simples-usando-html-css-e-javascript",
+    "conteudo": [
+      "Instalação do Visual Studio Code",
+      "O que há em uma página da Web",
+      "Módulo 1 – Configurar a estrutura do seu aplicativo Web",
+      "Módulo 2 – Adicionar um HTML Básico ao seu aplicativo Web",
+      "Módulo 3 – Aplicar estilos ao HTML com o CSS",
+      "Módulo 4 – Adicionar interatividade com o JavaScript"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Familiaridade com, pelo menos, uma linguagem de programação e uma linguagem de marcação (como HTML). Instalação do Visual Studio Code, que é um editor de código de plataforma cruzada (que você pode baixar dentro do próprio curso).",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Cultura Digital",
+    "area_tema": null,
+    "descricao_resumo": "Neste curso, você aprenderá sobre os conceitos básicos e fundamentais de Redes Sociais e sobre o Pacote Office, da Microsoft. No primeiro módulo, você vai ver que as Redes Sociais são estruturas compostas por pessoas ou organizações, que partilham valores e objetivos em comum. Você sabia que, assim como as marcas, pessoas também podem sofrer consequências graves, dependendo do que publicam nas redes sociais? Já no segundo módulo, você vai ver que a tecnologia está cada vez mais presente em nosso dia a dia e, por isso, para ajudar a desvendar este mundo, exploraremos as principais ferramentas do Pacote Microsoft Office, um dos recursos mais utilizados pelas empresas brasileiras. Toda a jornada de aprendizado deste conteúdo passa por cinco etapas: • Start – Comece a pensar sobre o tema do módulo • Bússola – Descubra o que é preciso saber para cumprir a missão • Desafio – Reveja os conceitos apresentados no módulo • Missão – Coloque em prática o que você aprendeu • Quiz – Teste seus conhecimentos sobre o que você aprendeu",
+    "carga_horaria": "6h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/cultura-digital",
+    "conteudo": [
+      "Módulo 1 – Redes Sociais",
+      "Módulo 2 – Office"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Desenvolvimento Profissional",
+    "area_tema": null,
+    "descricao_resumo": "Neste curso, você verá a importância do desenvolvimento de sua carreira profissional, por meio do investimento em autoconhecimento. Sabemos que as escolhas profissionais não são tarefas fáceis e, por este motivo, você precisa estar preparado(a) para os desafios do mercado de trabalho! No decorrer do curso serão abordados temas importantes, como: Busca por sua aptidão Formações técnicas para ingressar (e permanecer) no mercado de trabalho Identificação do seu perfil pessoal e profissional, para tomada de decisões Busca por conhecimentos específicos e generalistas, para que você possa transitar melhor entre áreas e departamentos da empresa Networking (para melhorar e fortalecer seus contatos profissionais) Todo o aprendizado está amparado nas principais práticas do mercado, com foco em Administração, Gestão, Coaching, Inovação, Planejamento Estratégico e Acadêmico, para você se destacar em sua carreira profissional!",
+    "carga_horaria": "8h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/desenvolvimento-profissional",
+    "conteudo": [
+      "Módulo 1 – Plano de carreira",
+      "Módulo 2 – Soft Skills e Hard Skills",
+      "Módulo 3 – Conexões/Networking",
+      "Módulo 4 – Aprendizado Contínuo"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Design Thinking para Educadores",
+    "area_tema": null,
+    "descricao_resumo": "O objetivo deste curso é apresentar aos educadores a abordagem do design thinking, considerando seu contexto e relevância e as possibilidades de uso na educação. O conteúdo está organizado em quatro módulos, contendo vídeos, ilustrações, infográficos e exemplos práticos. Inicialmente, o conteúdo traz uma abordagem sobre a importância da educação como um direito; o conceito e a origem do termo design thinking e as competências gerais da Base Nacional Comum Curricular (BNCC) que podem ser desenvolvidas com o uso da abordagem do design thinking na educação. Na fase da Descoberta e Interpretação são abordadas a importância da definição de um desafio para o processo de design thinking, o uso do Mapa da Empatia e de recursos visuais gráficos para destacar as informações relevantes que apareceram no decorrer do trabalho. Durante a fase de Ideação e Experimentação o foco está na importância da colaboração, cocriação e do feedback no processo de design thinking. Também é o momento de estudar as possibilidades de protótipos, o que torna esta fase bem lúdica! No módulo final, são apresentadas algumas experiências educacionais com o uso do design thinking pelo Brasil e, também, um passo a passo bem resumido para quem deseja realizar um processo de design thinking em sala de aula.",
+    "carga_horaria": "20h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/design-thinking-para-educadores",
+    "conteudo": [
+      "Módulo 1 – Contexto e relevância",
+      "Módulo 2 – Descoberta e interpretação",
+      "Módulo 3 – Ideação e experimentação",
+      "Módulo 4 – Experiências e passo a passo"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "18",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Educação Financeira",
+    "area_tema": null,
+    "descricao_resumo": "Como você lida com seu dinheiro? Você sabe quanto gasta por mês? Você consegue guardar dinheiro? Você gasta com coisas que não precisa? Quem termina primeiro, o mês ou o seu salário? Com certeza você já ouviu muitas dessas perguntas, não é mesmo? Vivemos em uma sociedade consumista, em que há uma grande oferta de produtos e serviços, facilidade de crédito e um apelo muito grande da mídia para o consumo. Por outro lado, nossos ganhos não são infinitos e precisamos saber como ganhar, como gastar e como guardar dinheiro. A educação financeira possibilita exatamente isso, que você faça um planejamento financeiro, que aprenda a gerenciar sua economia pessoal e seus hábitos de consumo. Neste curso, você conhecerá qual é o seu perfil financeiro, aprenderá a fazer uma análise e a elaborar um controle financeiro de qualidade e conhecerá os conceitos básicos e fundamentais sobre investimentos e sustentabilidade. Toda a jornada de aprendizado deste conteúdo passa por cinco etapas: • Start – Comece a pensar sobre o tema do módulo • Bússola – Descubra o que é preciso saber para cumprir a missão • Desafio – Reveja os conceitos apresentados no módulo • Missão – Coloque em prática o que você aprendeu • Quiz – Teste seus conhecimentos sobre o que você aprendeu",
+    "carga_horaria": "4h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/educacao-financeira",
+    "conteudo": [
+      "Módulo 1 – Perfil Financeiro",
+      "Módulo 2 – Análise e Controle Financeiro",
+      "Módulo 3 – Investimentos",
+      "Módulo 4 – Sustentabilidade"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "EDUCAÇÃO INCLUSIVA",
+    "area_tema": null,
+    "descricao_resumo": "Você sabia que mais de 14 milhões de brasileiros vivem com algum tipo de deficiência? Esse número revela uma realidade que não pode ser ignorada: a diversidade está presente em nossas salas de aula, nas comunidades e em toda a sociedade. Este curso foi pensado para quem deseja compreender profundamente os fundamentos da educação inclusiva e como ela se articula com a educação especial, promovendo práticas pedagógicas mais justas, acessíveis e transformadoras. Ao longo da jornada, você vai: • Explorar os conceitos e princípios que sustentam a educação inclusiva. • Entender a relação entre educação inclusiva e educação especial, reconhecendo suas especificidades e complementaridades. • Conhecer os marcos legais e o percurso legislativo brasileiro, que moldam as políticas públicas voltadas à inclusão. • Refletir sobre os paradigmas educacionais e como eles influenciam sua prática docente. • Aprender estratégias, recursos e formas de avaliação que favorecem o planejamento inclusivo. Mais do que um curso, esta é uma oportunidade de repensar sua atuação como educador(a), ampliando seu olhar e fortalecendo seu compromisso com uma educação que acolhe, respeita e valoriza todas as pessoas. Organize sua rotina, mergulhe nos conteúdos e participe ativamente.",
+    "carga_horaria": "20h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/educacao-inclusiva",
+    "conteudo": [
+      "Módulo 1 – Conceitos e reflexões sobre educação inclusiva",
+      "Módulo 2 – Aprendizagem para todos os estudantes",
+      "Módulo 3 – Ressignificando a prática na educação inclusiva",
+      "Módulo 4 – Desenvolvimento dos estudantes: Transtorno do Espectro Autista e deficiência intelectual"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "18",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Empreendedorismo e Inovação",
+    "area_tema": "Administração",
+    "descricao_resumo": "Se pensarmos no empreendedorismo como a capacidade de criar soluções inovadoras e colocá-las em prática, veremos que ele sempre esteve presente na trajetória humana. Contudo, para alguns especialistas no assunto, o Século XXI vem sendo considerado como a “Era do Empreendedor”, que em muito difere dos momentos anteriores, denominados a “Era do Agricultor” e a “Era do Empregado”. Neste curso são apresentados conceitos importantes sobre a postura empreendedora, os processos de inovação e identificação de oportunidades, além das principais características de um Plano de Negócios.",
+    "carga_horaria": "12h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/empreendedorismo-e-inovacao",
+    "conteudo": [
+      "Capítulo 1 – Empreendedorismo, Inovação e Cultura Organizacional Tópico 1: Empreendedorismo – Conceitos e Características Empreendedorismo Postura empreendedora Modalidades de empreendedorismo Empreendedorismo corporativo Tópico 2: Cultura Organizacional, Inovação e Empreendedorismo Inovação Exemplos de inovação e empreendedorismo Inovação de tecnologias e processos",
+      "Tópico 1: Empreendedorismo – Conceitos e Características Empreendedorismo Postura empreendedora Modalidades de empreendedorismo Empreendedorismo corporativo",
+      "Empreendedorismo",
+      "Postura empreendedora",
+      "Modalidades de empreendedorismo",
+      "Empreendedorismo corporativo",
+      "Tópico 2: Cultura Organizacional, Inovação e Empreendedorismo Inovação Exemplos de inovação e empreendedorismo Inovação de tecnologias e processos",
+      "Inovação",
+      "Exemplos de inovação e empreendedorismo",
+      "Inovação de tecnologias e processos",
+      "Capítulo 2 – Plano de Negócios Tópico 1: Elaborando Plano de Negócios Plano de Negócios Modalidades de empreendedorismo Modelo do plano de negócios Tópico 2: Mapa de Modelo de Negócios (Canvas) Mapa de modelo de negócios Canvas",
+      "Tópico 1: Elaborando Plano de Negócios Plano de Negócios Modalidades de empreendedorismo Modelo do plano de negócios",
+      "Plano de Negócios",
+      "Modalidades de empreendedorismo",
+      "Modelo do plano de negócios",
+      "Tópico 2: Mapa de Modelo de Negócios (Canvas) Mapa de modelo de negócios Canvas",
+      "Mapa de modelo de negócios Canvas"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "18",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Estratégia de Negócios",
+    "area_tema": "Administração",
+    "descricao_resumo": "Embora não tenha a intenção de esgotar o assunto, nosso curso apresenta pontos essenciais para ajudá-lo(a) a compreender a importância da estratégia para o mundo dos negócios. Na primeira parte do conteúdo, você descobrirá como surgiram as primeiras teorias modernas de administração –isso ainda no século 19 –, e conhecerá grandes teóricos, como Taylor, Fayol, Ford e Drucker. Você saberá, ainda, que a estratégia sempre esteve relacionada à ciência militar, e que a ideia de usar esse pensamento para os negócios surgiu apenas na década de 1930. Hoje, a estratégia é considerada uma ferramenta essencial para uma gestão administrativa eficiente. Para entendê-la melhor, você também conhecerá os pensamentos de Hamel, Prahalad, Mintzberg, Hunger e Porter e passará por assuntos, como os cinco Ps da estratégia, as principais escolas, a evolução do pensamento estratégico e a estratégia do Oceano Azul. Essa fundamentação teórica, além dos exercícios propostos, busca fornecer subsídios para que você compreenda o que é a administração e a importância da estratégia para criar vantagens competitivas para seu produto ou serviço.",
+    "carga_horaria": "20h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/estrategia-de-negocios",
+    "conteudo": [
+      "Módulo 1 – Administração – Breve Histórico",
+      "Módulo 2 – Estratégia: Conceitos e Definições",
+      "Módulo 3 – Vantagem Competitiva",
+      "Módulo 4 – Estratégia do Oceano Azul"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "18",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Ética na Era da IA",
+    "area_tema": null,
+    "descricao_resumo": "O curso Ética na Era da IA introduz reflexões sobre o que é ética e como seus princípios se relacionam com o uso da inteligência artificial. Por meio de um Webinário, ele destaca que ética vai além das obrigações legais, sendo guiada por valores e princípios morais, enquanto a lei trata de normas jurídicas obrigatórias. Esse contraste mostra que, embora o cumprimento da lei seja essencial, a ética amplia a responsabilidade social e humana no desenvolvimento e uso de tecnologias emergentes. Um dos pontos centrais do curso é o viés algorítmico e seus impactos na sociedade. Algoritmos treinados com dados enviesados tendem a reforçar preconceitos existentes, resultando em decisões e resultados discriminatórios que afetam de forma desproporcional certos grupos sociais. Assim, discutir ética na IA significa também enfrentar as desigualdades e buscar mais transparência, confiabilidade e justiça nos sistemas automatizados. Detalhes: Curso livre de 2 horas Acesso 100% online Estude no seu próprio ritmo Conteúdo Estruturado: Webinário cuidadosamente planejado Explore as possibilidades da IA para entender sobre a Ética nesta Era",
+    "carga_horaria": "2h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/etica_IA",
+    "conteudo": [
+      "O que é ética",
+      "Lei x Ética",
+      "Relação entre moral e ética",
+      "Importância da ética",
+      "Princípios éticos comuns",
+      "Viés Algorítmico"
+    ],
+    "detalhes": {
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Excel na Prática",
+    "area_tema": null,
+    "descricao_resumo": "Este curso é perfeito para quem deseja elevar suas habilidades na criação de planilhas eficientes, realizar análises de dados complexas e automatizar tarefas no Excel, tornando suas atividades diárias mais produtivas e organizadas. Indicado tanto para iniciantes quanto para aqueles que já possuem algum conhecimento da ferramenta, este curso é uma excelente oportunidade para enriquecer seu currículo e aplicar o Excel em diversas áreas da sua vida, incluindo a organização financeira pessoal. Matricule-se agora e invista no seu aprendizado! Aplique seus conhecimentos em situações reais, otimize processos e tome decisões mais estratégicas, seja na sua carreira, no seu negócio ou em atividades pessoais. Transforme seu potencial com o poder do Excel! Detalhes Curso livre de 16 horas Acesso 100% online Estude no seu próprio ritmo Conteúdo Estruturado em Módulos Orientações sobre funções visualizando telas do Excel Vídeos demonstrativos para fácil entendimento Atividades práticas Avaliação e Certificação Conclusão depende de 100% das atividades realizadas Avaliação final com mínimo de 70% de aproveitamento Certificado gratuito após aprovação",
+    "carga_horaria": "16h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/excel-na-pratica",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para realização deste curso.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "FluêncIA em Inteligência Artificial",
+    "area_tema": null,
+    "descricao_resumo": "Aprenda os fundamentos básicos da Inteligência Artificial (IA) Generativa de forma acessível e envolvente, desde a sua história até os conceitos essenciais. Explore suas aplicações da IA no dia a dia e em sua produtividade online. Conteúdo desenvolvido em parceria com a MICROSOFT, com vídeos gravados pelos especialistas da empresa no Brasil.Este é um curso inicialpara se aprofundar no mundo da IA e essencial para seguir com os estudos dos demais cursos oferecidos pela Escola Virtual sobre Inteligência Artificial. Além disso, temos novidades: os módulos 7 (Como escrever bons prompts com Copilot) e 8 (Criando agentes com Copilot Studio para M365) são inéditos e trazem conteúdos exclusivos para enriquecer a sua jornada. Os módulos deste curso são flexíveis e você pode estudar de acordo com seu interesse. Para emissão do CERTIFICADO é necessária a conclusão de todos os módulos e obter nota igual ou superior a 70% na avaliação final.",
+    "carga_horaria": "4h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/fluencia",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para realização deste curso. Este é um curso incial para se aprofundar no mundo da IA e essencial para seguir com os estudos dos demais cursos oferecidos pela Escola Virtual sobre Inteligência Artificial.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Fundamentos de TI: Hardware e Software",
+    "area_tema": null,
+    "descricao_resumo": "O objetivo deste curso é apresentar os conceitos básicos da informática, os componentes dos computadores, os sistemas lógicos e as principais funções de armazenamento e processamento que envolvem o poder computacional. Também serão abordados os sistemas operacionais e os princípios de segurança da informação, essenciais para manter a privacidade e confiabilidade das informações. Neste curso, você entenderá como se deu a evolução da computação, como funcionavam as primeiras máquinas e o que é um hardware e um software, bem como qual é a diferença entre eles. Você verá, também, os componentes internos e externos de um computador, além de analisar a montagem dessa máquina tão presente em nosso cotidiano.",
+    "carga_horaria": "7h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software",
+    "conteudo": [
+      "Módulo 1 – Introdução ao sistema de computação",
+      "Módulo 2 – Conceitos de hardware e software",
+      "Módulo 3 – Prevenção e segurança"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "IA na Prática: Como Dados bem Estruturados fazem a Diferença",
+    "area_tema": null,
+    "descricao_resumo": "O curso, voltado preferencialmente para organizações do Terceiro Setor, apresenta conteúdos essenciais para a compreensão e aplicação de dados e inteligência artificial no contexto social. Ministrado por meio de Webinário, materiais de apoio e quizzes, ensina como utilizar a inteligência artificial e outras tecnologias emergentes para interpretar dados de forma mais estratégica e inteligente. Entre os temas abordados estão: o uso do Beacon de Dados, a distinção entre dados sintéticos e realistas, o emprego de ferramentas modernas, exemplos práticos de aplicação em diferentes cenários e técnicas que contribuem para uma tomada de decisão mais assertiva. Detalhes: Curso livre de 2 horas Acesso 100% online Estude no seu próprio ritmo Conteúdo Estruturado Webinário cuidadosamente planejado Explore as infinitas possibilidades da IA no contexto social",
+    "carga_horaria": "2h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/IA_pratica",
+    "conteudo": [
+      "Conceitos de Banco de Dados",
+      "Dados Semânticos e Modelos Semânticos",
+      "Dados agenciais e orientados por IA",
+      "Arquitetura Medallion (Bronze, Prata, OuroA transformação global impulsionada pela IA",
+      "Estudo de caso: Operation Smile",
+      "Apresentação do Microsoft Fabric",
+      "Arquitetura do Data Lakehouse"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia do curso FluêncIA - Inteligência Artificial.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "IA para Profissionais da Justiça",
+    "area_tema": null,
+    "descricao_resumo": "Neste curso, o participante será introduzido às múltiplas possibilidades de aplicação da Inteligência Artificial (IA) no âmbito jurídico, de forma a ampliar a eficiência e a qualidade de sua atuação profissional. Ao longo das aulas, serão apresentados os benefícios da integração da IA aos processos judiciais, especialmente no tratamento e análise de diferentes tipos de dados, permitindo maior agilidade e precisão nas decisões. As videoaulas constituem o ponto de partida para uma jornada essencial ao profissional do Direito, diante de um cenário cada vez mais permeado por tecnologias impulsionadas por IA. O domínio dessas ferramentas proporcionará ganhos significativos de eficiência, possibilitando a automatização de tarefas, a redução de custos operacionais e a concentração do jurista em atividades estratégicas, nas quais seu conhecimento jurídico agrega maior valor. Matricule-se agora mesmo! Curso livre de 2horas Acesso 100% online Estude no seu próprio ritmo Conteúdo Estruturado Videoaulas cuidadosamente planejadas Explore as infinitas possibilidades da IA nos estudos Avaliação e Certificação Realize a avaliação final Necessário 70% de aproveitamento para aprovação Certificado gratuito após aprovação",
+    "carga_horaria": "2h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/justica",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia do curso FluêncIA - Inteligência Artificial.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "IA para profissionais do Direito",
+    "area_tema": null,
+    "descricao_resumo": "O curso “IA para Profissionais do Direito” tem como objetivo preparar profissionais jurídicos para atuar de forma estratégica em um contexto de transformação digital impulsionado pela inteligência artificial. O conteúdo aborda o uso do Copilot na rotina do Direito, destacando como a automação de tarefas pode otimizar processos e ampliar a eficiência operacional, sem perder de vista a importância do julgamento humano e da atuação ética. Além disso, enfatiza a segurança e privacidade de dados, apresentando práticas essenciais de cibersegurança e uso responsável da IA, como anonimização de informações, autenticação multifator, criptografia e políticas de acesso seguras. Assim, o curso une inovação tecnológica e responsabilidade ética, preparando o profissional jurídico para liderar a transformação digital no Direito com confiança, eficiência e consciência social. Detalhes: Curso livre de 2 horas Acesso 100% online Estude no seu próprio ritmo Conteúdo Estruturado Videoulas cuidadosamente planejadas Explore as infinitas possibilidades da IA no contexto jurídico",
+    "carga_horaria": "2h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/IA_Direito",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia do curso FluêncIA - Inteligência Artificial.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "IA para seu novo emprego: Do currículo à entrevista",
+    "area_tema": null,
+    "descricao_resumo": "O mercado de trabalho está mudando, e a Inteligência Artificial já é parte dessa transformação. Neste curso, você vai aprender a usar a IA de forma estratégica para conquistar uma vaga, mudar de carreira ou se destacar na função atual. Com exemplos práticos e linguagem acessível, você descobrirá como criar currículos de impacto, otimizar seu perfil no LinkedIn, encontrar oportunidades de emprego, entender e aplicar palavras-chave essenciais e até se preparar para entrevistas gerando perguntas e respostas com IA. Além de ferramentas e técnicas, você vai desenvolver pensamento crítico e criatividade para usar a IA a seu favor, de maneira ética e eficiente. Este é o momento de se posicionar à frente e liderar sua própria trajetória profissional. Prepare-se para o futuro do trabalho! Detalhes: Curso livre de 2 horas Acesso 100% online Estude no seu próprio ritmo Conteúdo Estruturado Videoaulas cuidadosamente planejadas Explore as infinitas possibilidades da IA para uma nova oportunidade profissional",
+    "carga_horaria": "2h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/iaempregos",
+    "conteudo": [],
+    "detalhes": {
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Inteligência Artificial para Educadores",
+    "area_tema": null,
+    "descricao_resumo": "Transforme sua prática pedagógica. Seja um educador preparado para o presente e protagonista do futuro! Este curso foi criado especialmente para professores que desejam explorar o poder da Inteligência Artificial de forma prática, acessível e inspiradora, aplicando suas ferramentas desde o planejamento até a personalização do ensino. Ao longo dessa jornada, você terá acesso a conteúdos cuidadosamente selecionados, pensados para a realidade da sala de aula. Descubra como a IA pode ser sua aliada na redução de tarefas repetitivas, na otimização de processos e, principalmente, na criação de experiências de aprendizagem mais significativas e envolventes. Ao se inscrever, você dá um passo à frente na educação contemporânea e seus alunos sentirão essa diferença! O curso é dividido em cinco módulos dinâmicos, com videoaulas e materiais de apoio prontos para serem aplicados no seu cotidiano. Tudo isso com uma linguagem clara e foco total no seu desenvolvimento profissional. Não fique para trás. A educação está mudando e você pode liderar essa transformação. Matricule-se agora! Detalhes: Curso livre de 4 horas Acesso 100% online Estude no seu próprio ritmo Conteúdo Estruturado Videoaulas cuidadosamente planejadas Explore as infinitas possibilidades da IA nos estudos Avaliação e Certificação Realize a avaliação final Necessário 70% de aproveitamento para aprovação Certificado gratuito após aprovação",
+    "carga_horaria": "4h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/iaeduc",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia do curso FluêncIA - Inteligência Artificial.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Inteligência Artificial para Estudantes",
+    "area_tema": null,
+    "descricao_resumo": "Vivemos em um mundo cada vez mais movido pela Inteligência Artificial e você pode estar à frente desse tempo. Neste curso, você vai aprender a integrar a IA ao seu dia a dia, aplicando-a desde tarefas simples até processos mais complexos, sem abrir mão da sua criatividade e do pensamento crítico. Com exemplos práticos, casos reais e linguagem acessível, você vai descobrir como a IA pode se tornar sua assistente pessoal, potencializando sua produtividade e ampliando suas possibilidades no estudo, no trabalho e nas atividades pessoais. Prepare-se para mergulhar em análises de texto, simulações profissionais, resolução de problemas e até no aprendizado de novos idiomas! Cada aula é uma oportunidade de evolução com depoimentos inspiradores e atividades que aproximam você da prática real. Esteja entre os que lideram o futuro. Matricule-se agora! Detalhes: Curso livre de 4 horas Acesso 100% online Estude no seu próprio ritmo Conteúdo Estruturado Videoaulas cuidadosamente planejadas Explore as infinitas possibilidades da IA nos estudos Avaliação e Certificação Realize a avaliação final Necessário 70% de aproveitamento para aprovação Certificado gratuito após aprovação",
+    "carga_horaria": "4h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/iaestudantes",
+    "conteudo": [
+      "Aula 1 – O que é o Copilot e como acessá-lo para seus estudos",
+      "Aula 2 – Como a Daniella aprende com seu assistente de IA",
+      "Aula 3 - Como fazer pesquisa acadêmica com IA",
+      "Aula 4 - Prepare-se para provas e outras avaliações com IA",
+      "Aula 5 - Como o Rafael organiza seus estudos com a ajuda da IA",
+      "Aula 6 - Planeje e organize seu estudo com IA",
+      "Aula 7 - Como a Manoela se desafia no estudo acadêmico com IA",
+      "Aula 8 - Análise de textos e artigos com IA",
+      "Aula 9 - Como o Guilherme simula sua prática profissional com IA",
+      "Aula 10 - Simule práticas da sua profissão com IA",
+      "Aula 11 - Como o João Pedro aprende a resolver problemas com auxílio da IA",
+      "Aula 12 - Como fazer uma pesquisa de mercado com IA",
+      "Aula 13 - Aprenda ou melhore seus idiomas com IA"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia do curso FluêncIA - Inteligência Artificial.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Inteligência Artificial para ONGs",
+    "area_tema": null,
+    "descricao_resumo": "O cursoInteligência Artificial para ONGsfoi criado especialmente para organizações que desejampotencializar sua atuação socialcom o uso estratégico, ético e acessível da IA. Se sua ONG buscaeficiência, inovação e sustentabilidade, este curso é para você. Ao longo de três módulos complementares, você vai aprender a: •Aplicarferramentas de IA, como o Copilot, em projetos reais; •Utilizarprompts prontospara facilitar tarefas do dia a dia; •Planejar e validar suaTeoria da Mudançacom mais clareza; •Monitorar, avaliar emelhorar resultados continuamentecom apoio da IA. Com conteúdos práticos, exemplos aplicados e materiais de apoio, sua organização estará preparada paraestruturar projetos com mais inteligência,tomar decisões com base em dadoseampliar seu impacto socioambiental. Comece agora e leve sua ONG para o próximo nível com o poder da Inteligência Artificial! Curso livre de 4 horas Acesso 100% online Estude no seu próprio ritmo Conteúdo Estruturado Videoaulas cuidadosamente planejadas Explore as infinitas possibilidades da IA nos estudos Avaliação e Certificação Realize a avaliação final Necessário 70% de aproveitamento para aprovação Certificado gratuito após aprovação",
+    "carga_horaria": "4h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/ONGS",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia do curso FluêncIA - Inteligência Artificial.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Inteligência Artificial para Pequenas e Médias Empresas",
+    "area_tema": null,
+    "descricao_resumo": "A inteligência artificial cada vez mais presente nos negócios, se torna essencial para quem busca aumentar a produtividade, reduzir os custos operacionais, otimizar fluxos de trabalho e personalizar preferências e comportamentos com objetivo de melhorar a satisfação dos clientes. Neste curso você aprenderá como automatizar suas tarefas, tomar decisões mais inteligentes e criar soluções inovadoras para seus clientes, economizando seu tempo, dinheiro e outros recursos, impulsionando a eficiência do seu negócio e aumentando sua competitividade no mercado.",
+    "carga_horaria": "4h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/pmes",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia do curso FluêncIA - Inteligência Artificial.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Introdução à Administração",
+    "area_tema": "Administração",
+    "descricao_resumo": "Os primeiros textos dedicados à Administração Científica foram escritos no século XVIII. Desde então, diferentes Teorias Administrativas foram surgindo e passaram a usar métodos científicos, apropriando-se das técnicas de observação, apuração e experimentação, com o objetivo de melhorar os sistemas produtivos. Este curso foi elaborado de forma a apresentar conceitos estratégicos em relação ao tema, como sistemas produtivos, organização e processo de administração, bem como as principais teorias administrativas e o papel que se espera de gestores no contexto produtivo do Século XXI.",
+    "carga_horaria": "12h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/introducao-a-administracao",
+    "conteudo": [
+      "Capítulo 1 – Administração e Organizações Tópico 1: Processos Produtivos Evolução e Criação de Processos Produtivos Tópico 2: Teorias Administrativas Teoria da Administração Científica – Ênfase nas Tarefas Teoria Clássica e Teoria Neoclássica – Ênfase na Estrutura Organizacional Teoria das Relações Humanas – Ênfase nas Pessoas Teoria da Contingência – Ênfase na Tecnologia Tópico 3: Organização Conceito e características de uma organização",
+      "Tópico 1: Processos Produtivos Evolução e Criação de Processos Produtivos",
+      "Evolução e Criação de Processos Produtivos",
+      "Tópico 2: Teorias Administrativas Teoria da Administração Científica – Ênfase nas Tarefas Teoria Clássica e Teoria Neoclássica – Ênfase na Estrutura Organizacional Teoria das Relações Humanas – Ênfase nas Pessoas Teoria da Contingência – Ênfase na Tecnologia",
+      "Teoria da Administração Científica – Ênfase nas Tarefas",
+      "Teoria Clássica e Teoria Neoclássica – Ênfase na Estrutura Organizacional",
+      "Teoria das Relações Humanas – Ênfase nas Pessoas",
+      "Teoria da Contingência – Ênfase na Tecnologia",
+      "Tópico 3: Organização Conceito e características de uma organização",
+      "Conceito e características de uma organização",
+      "Capítulo 2 – Recursos Internos e Processo de Agregação de Valor Tópico 1: Administração Processo de administração A Administração, os recursos e as pessoas Tópico 2: Gestão de Pessoas e Potencial Humano Gestão de pessoas Potencial humano Tópico 3: Materiais e Capitais Conceito de recursos materiais Categorias e classificações Conceito de capitais Tópico 4: Informações Conceito de informações Importância de um sistema de informações competente Conceito de gestão de informações",
+      "Tópico 1: Administração Processo de administração A Administração, os recursos e as pessoas",
+      "Processo de administração",
+      "A Administração, os recursos e as pessoas",
+      "Tópico 2: Gestão de Pessoas e Potencial Humano Gestão de pessoas Potencial humano",
+      "Gestão de pessoas",
+      "Potencial humano",
+      "Tópico 3: Materiais e Capitais Conceito de recursos materiais Categorias e classificações Conceito de capitais",
+      "Conceito de recursos materiais",
+      "Categorias e classificações",
+      "Conceito de capitais",
+      "Tópico 4: Informações Conceito de informações Importância de um sistema de informações competente Conceito de gestão de informações",
+      "Conceito de informações",
+      "Importância de um sistema de informações competente",
+      "Conceito de gestão de informações",
+      "Capítulo 3 – Princípios Institucionais Tópico 1: Papel do Gestor Principais funções do gestor Método PDCA Relação entre a imagem da organização e o papel do gestor Tópico 2: Princípios Institucionais Princípios institucionais Importância de missão, visão e valores",
+      "Tópico 1: Papel do Gestor Principais funções do gestor Método PDCA Relação entre a imagem da organização e o papel do gestor",
+      "Principais funções do gestor",
+      "Método PDCA",
+      "Relação entre a imagem da organização e o papel do gestor",
+      "Tópico 2: Princípios Institucionais Princípios institucionais Importância de missão, visão e valores",
+      "Princípios institucionais",
+      "Importância de missão, visão e valores"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "18",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Introdução à Análise de Dados - Microsoft Power BI",
+    "area_tema": "Administração",
+    "descricao_resumo": "Neste curso, você conhecerá as principais atribuições de um analista de dados, suas habilidades, tarefas e processos com os quais ele trabalha e terá uma breve explanação teórica sobre a análise de dados. O Microsoft Power BI é uma coleção de serviços de software, aplicativos e conectores que funcionam juntos para tornar fontes de dados não relacionadas em informações coerentes, visualmente imersivas e interativas. Você verá como o conjunto de ferramentas e serviços do Power BI é usado por um analista de dados para contar uma história convincente por meio de relatórios e painéis, para que decisões confiáveis possam ser tomadas.",
+    "carga_horaria": "5h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/introducao-a-analise-de-dados-microsoft-power-bi",
+    "conteudo": [
+      "Módulo 1 – Dados e Informações",
+      "Módulo 2 – Visão Geral da Análise de Dados",
+      "Módulo 3 – Principais Categorias da Análise de Dados",
+      "Módulo 4 – Diferentes Funções Exercidas no Trabalho com Dados",
+      "Módulo 5 – Tarefas de um Analista de Dados",
+      "Módulo 6 – Usar o Power BI",
+      "Módulo 7 – Blocos de construção do Power BI",
+      "Módulo 8 – Tour e uso do serviço do Power BI"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Introdução à Gestão de Projetos",
+    "area_tema": "Administração",
+    "descricao_resumo": "O que se conhece genericamente como “Gerenciamento de Projetos” é, na prática, um conjunto de regras e de boas práticas estabelecidas para se realizar projetos da melhor forma possível, independentemente do tamanho e complexidade deles. Trata-se, portanto, de uma metodologia voltada para a eficiência na realização de tarefas, que vem sendo aprimorada ao longo do tempo. Este curso foi elaborado com o objetivo de apresentar os conceitos fundamentais referentes ao tema, com destaque para a definição e caracterização do termo “projeto” e da apresentação do ciclo de vida dos projetos e das nove áreas do conhecimento, definidas pelo Project Management Institute (PMI), instituição internacional que se dedica ao estudo e à disseminação dos melhores métodos e técnicas de gerenciamento de projetos.",
+    "carga_horaria": "10h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/introducao-a-gestao-de-projetos",
+    "conteudo": [
+      "Capítulo 1 – Introdução Tópico 1: Conceito Histórico do gerenciamento de projetos Origem e definição de projeto Características dos projetos Tópico 2: Gerenciamento Motivos pelos quais gerenciar projetos nas empresas Nove áreas de conhecimento",
+      "Tópico 1: Conceito Histórico do gerenciamento de projetos Origem e definição de projeto Características dos projetos",
+      "Histórico do gerenciamento de projetos",
+      "Origem e definição de projeto",
+      "Características dos projetos",
+      "Tópico 2: Gerenciamento Motivos pelos quais gerenciar projetos nas empresas Nove áreas de conhecimento",
+      "Motivos pelos quais gerenciar projetos nas empresas",
+      "Nove áreas de conhecimento",
+      "Capítulo 2 – Caracterização Tópico 1: Fases Fases do gerenciamento Ciclo de vida e início do projeto Seleção e priorização de projetos Tópico 2: Planejamento Ferramentas e técnicas de planejamento Desenvolvimento do cronograma Estimativa dos custos Gerenciamento dos riscos",
+      "Tópico 1: Fases Fases do gerenciamento Ciclo de vida e início do projeto Seleção e priorização de projetos",
+      "Fases do gerenciamento",
+      "Ciclo de vida e início do projeto",
+      "Seleção e priorização de projetos",
+      "Tópico 2: Planejamento Ferramentas e técnicas de planejamento Desenvolvimento do cronograma Estimativa dos custos Gerenciamento dos riscos",
+      "Ferramentas e técnicas de planejamento",
+      "Desenvolvimento do cronograma",
+      "Estimativa dos custos",
+      "Gerenciamento dos riscos",
+      "Capítulo 3 – Considerações Práticas Tópico 1: Partes interessadas (stakeholders) Partes interessadas de um projeto Partes interessadas positivas e negativas Tópico 2: Habilidades do gerente e da equipe de Projetos Habilidades do gerente de projetos Tópico 3: Fatores de sucesso e fracasso Fatores de sucesso e de fracasso",
+      "Tópico 1: Partes interessadas (stakeholders) Partes interessadas de um projeto Partes interessadas positivas e negativas",
+      "Partes interessadas de um projeto",
+      "Partes interessadas positivas e negativas",
+      "Tópico 2: Habilidades do gerente e da equipe de Projetos Habilidades do gerente de projetos",
+      "Habilidades do gerente de projetos",
+      "Tópico 3: Fatores de sucesso e fracasso Fatores de sucesso e de fracasso",
+      "Fatores de sucesso e de fracasso"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "18",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Introdução ao Scratch: Linguagem de Programação na Computação Criativa",
+    "area_tema": null,
+    "descricao_resumo": "A palavra \"scratch\"surgiu na cultura hip-hop e se refere ao movimento manual, feito pelos DJs, de girar discos de vinil para a frente e para trás, para modificar, mesclar e adaptar músicas e batidas, criando versões remixadas. Na computação, \"scratch\"refere-se a pedaços reutilizáveis de softwares, que podem ser facilmente combinados e compartilhados. Interessante, não é mesmo? E tudo isso vai fazer muito mais sentido quando você começar a utilizar a linguagem de programação Scratch e constatar que, para programar, basta arrastar os blocos e encaixá-los, de acordo com o que você quer que o programa realize. Neste curso, você vai ter a oportunidade de conhecer os principais conceitos e comandos da linguagem, a comunidade Scratch e seu ambiente de programação. Você vai aprender a criar animações e jogos simples e ver como é possível começar a programar no Scratch, tendo como base projetos de outros usuários da comunidade.",
+    "carga_horaria": "6h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/introducao-ao-scratch-linguagem-de-programacao-na-computacao-criativa",
+    "conteudo": [
+      "Introdução",
+      "Módulo 1 – Conhecendo o Scratch",
+      "Módulo 2 – Comece a Programar",
+      "Módulo 3 – Integração do Scratch à Proposta Pedagógica",
+      "Módulo 4 – Desenvolvendo Competências e Habilidades com o Scratch",
+      "Módulo 5 – Reflexões Finais e Sistematização"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "18",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Língua Portuguesa sem Complicações",
+    "area_tema": null,
+    "descricao_resumo": "Este curso foi desenvolvido especialmente para você estudar os aspectos da língua portuguesa que mais causam dúvidas. Esperamos que você aprimore sua competência comunicativa, compreendendo as diferenças entre situações formais e informais e reconhecendo a norma culta como uma ferramenta essencial para escrever ou falar com desenvoltura. Em nosso curso serão abordados temas, como a competência comunicativa, as principais dúvidas de português, regras de acentuação gráfica, entre outros. Ao longo dos módulos, além da teoria, você encontrará dicas práticas e exercícios de fixação. A expectativa é que, ao final do curso, você entenda melhor o funcionamento da língua portuguesa e tenha condições de aplicar os conhecimentos adquiridos na comunicação do dia a dia.",
+    "carga_horaria": "20h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/lingua-portuguesa-sem-complicacoes",
+    "conteudo": [
+      "Módulo 1 – Introdução",
+      "Módulo 2 – Língua Portuguesa",
+      "Módulo 3 – A Lógica da Acentuação",
+      "Módulo 4 – Linguagem Falada X Escrita",
+      "Módulo 5 – Regência",
+      "Módulo 6 – Primeira Revisão",
+      "Módulo 7 – Crase",
+      "Módulo 8 – Colocação Pronominal",
+      "Módulo 9 – Concordância Nominal e Verbal",
+      "Módulo 10 – Segunda Revisão",
+      "Módulo 11 – Micos de Linguagem",
+      "Módulo 12 – Coesão e Coerência Textual",
+      "Módulo 13 – Revisão Final",
+      "Módulo 14 – Referências Bibliográficas"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Linguagem de Programação Python - Básico",
+    "area_tema": null,
+    "descricao_resumo": "O objetivo deste curso é articular teoria e prática do raciocínio lógico por meio da Linguagem de Programação Python, desenvolvendo programas básicos em modo console, apresentando, de forma simples, a plataforma de desenvolvimento PyCharm. A linguagem de programação Python vem crescendo muito nos últimos anos devido à sua simplicidade e, principalmente, à sua grande compatibilidade, pois funciona bem na maioria dos sistemas operacionais. O curso começa de uma forma bem didática, explicando o que é o raciocínio lógico e mostrando que a lógica está presente em nosso cotidiano em diversas situações. Em seguida, passamos para a etapa de download da ferramenta, instalação e configurações iniciais, para, então, abordar o conteúdo mais técnico.",
+    "carga_horaria": "18h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico",
+    "conteudo": [
+      "Módulo 1 – Introdução à Lógica de Programação",
+      "Módulo 2 – Introdução à Linguagem de Programação Python",
+      "Módulo 3 – Estrutura básica da linguagem Python, declaração de variáveis e tipos de dados",
+      "Módulo 4 – Estruturas lógicas",
+      "Módulo 5 – Funções",
+      "Módulo 6 – Outros recursos"
+    ],
+    "detalhes": {
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft Excel 2016 - Avançado",
+    "area_tema": null,
+    "descricao_resumo": "Nos cursos de Excel 2016 Básico e Intermediário, você aprendeu sobre diversos recursos desse aplicativo que, com certeza, o auxiliaram a otimizar suas planilhas eletrônicas. Neste curso, você conhecerá novos recursos, como nome (utilizado em células com fórmulas), subtotal, filtro avançado, importação e exportação de dados, cenários, análise rápida, entre outros, que foram aprimorados para esta versão. Apresentaremos uma forma de personalizar a Faixa de Opções, por meio da criação de guias, grupos e adições dos comandos mais utilizados por você, que passará a acessá-los com poucos cliques. Além disso, você aprenderá sobre funções financeiras, estatísticas e trabalhará com funções aninhadas, de maneira que o raciocínio seja aprimorado para situações mais complexas. Serão apresentadas as ferramentas para gravar macros e executá-las, através de botões ou atalhos pré-definidos. Você também aprenderá a utilizar recursos, como tabela dinâmica, solver e proteção de planilha e pasta de trabalho, que, combinados com o recurso de validação de dados e macro, oferecem um resultado sofisticado. Por fim, aprenderá, também, a criar formulários para consulta e visualização de dados. Esperamos que todos os conhecimentos desenvolvidos durante este curso sejam um estímulo para outras aprendizagens.",
+    "carga_horaria": "30h",
+    "nivel_dificuldade": "Avançado",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-excel-2016-avancado",
+    "conteudo": [
+      "Módulo 1 – Trabalhando com nomes",
+      "Módulo 2 – Importação de dados",
+      "Módulo 3 – Validação usando auditoria",
+      "Módulo 4 – Solver e funções",
+      "Módulo 5 – Funções e banco de dados",
+      "Módulo 6 – Funções, macros e formulários"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia dos cursos Microsoft Excel 2016 – Básico e Microsoft Excel 2016 – Intermediário.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft Excel 2016 - Básico",
+    "area_tema": null,
+    "descricao_resumo": "O Excel é um dos mais famosos e utilizados aplicativos de planilhas eletrônicas do mundo! Neste curso introdutório serão abordados temas, como formatação de planilhas e de gráficos, classificação de dados e aplicação de fórmulas e funções. Se você precisa dar os primeiros passos no uso de uma ferramenta de auxílio à execução de trabalhos que envolvam cálculos matemáticos, este é o curso certo!",
+    "carga_horaria": "15h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-excel-2016-basico",
+    "conteudo": [
+      "Módulo 1 – Introdução",
+      "Módulo 2 – Editando a pasta de trabalho ou a planilha",
+      "Módulo 3 – Formatando tabelas e células",
+      "Módulo 4 – Trabalhando com fórmulas",
+      "Módulo 5 – Gráficos"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft Excel 2016 - Intermediário",
+    "area_tema": null,
+    "descricao_resumo": "O Excel é um dos mais famosos e utilizados aplicativos de planilhas eletrônicas do mundo! O Excel 2016, que integra o Pacote Office 2016, foi lançado no segundo semestre de 2015 com o Windows 10 e trouxe novas e poderosas funcionalidades. Neste curso você aprenderá a criar modelos de pastas de trabalho, usar funções e a inserir elementos gráficos em suas planilhas eletrônicas.",
+    "carga_horaria": "20h",
+    "nivel_dificuldade": "Intermediário",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-excel-2016-intermediario",
+    "conteudo": [
+      "Módulo 1 – Modelo de pasta de trabalho",
+      "Módulo 2 – Funções",
+      "Módulo 3 – Trabalhando com elementos gráficos"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia do curso Microsoft Excel 2016 – Básico.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft Office 365 - Conhecendo o OneDrive",
+    "area_tema": null,
+    "descricao_resumo": "O Office 365 é uma coleção de aplicativos da Microsoft que reúne as melhores ferramentas para as pessoas trabalharem de forma colaborativa e produtiva. Este conteúdo é composto de sete vídeos, nos quais você aprenderá algumas funcionalidades da ferramenta OneDrive, para que possa trabalhar, de maneira eficiente, com arquivos na nuvem. ATENÇÃO: Seus conhecimentos serão testados por meio de um Quiz e não de uma avaliação e, ao final, você receberá um Certificado de Participação.",
+    "carga_horaria": "1h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-office-365-conhecendo-o-onedrive",
+    "conteudo": [
+      "Vídeo 1 – Conhecendo o OneDrive",
+      "Vídeo 2 – Salvar uma pasta de trabalho no OneDrive for Business",
+      "Vídeo 3 – Abrir uma planilha do Excel em um dispositivo iOS",
+      "Vídeo 4 – Editar uma planilha do Excel em um dispositivo iOS",
+      "Vídeo 5 – Editar uma planilha usando um telefone Android",
+      "Vídeo 6 – Compartilhar uma planilha com colegas de equipe no OneDrive for Business",
+      "Vídeo 7 – Coeditar uma planilha usando o Excel Online"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft Office 365 - Conhecendo o OneNote",
+    "area_tema": null,
+    "descricao_resumo": "O Office 365 é uma coleção de aplicativos da Microsoft que reúne as melhores ferramentas para as pessoas trabalharem de forma colaborativa e produtiva. Este conteúdo é composto de sete vídeos, nos quais você aprenderá algumas funcionalidades da ferramenta OneNote, para que possa trabalhar, de maneira eficiente, com um bloco de anotações digital. ATENÇÃO: Seus conhecimentos serão testados por meio de um Quiz e não de uma avaliação e, ao final, você receberá um Certificado de Participação.",
+    "carga_horaria": "1h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-office-365-conhecendo-o-onenote",
+    "conteudo": [
+      "Vídeo 1 – Conhecendo o OneNote",
+      "Vídeo 2 – Faça notas do jeito que quiser",
+      "Vídeo 3 – Insira fotos, arquivos e vídeos",
+      "Vídeo 4 – Crie páginas, sessões e blocos de notas",
+      "Vídeo 5 – Pesquise e encontre notas",
+      "Vídeo 6 – Organize suas notas",
+      "Vídeo 7 – Compartilhe uma página com outras pessoas"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft Office 365 - Conhecendo o Outlook",
+    "area_tema": null,
+    "descricao_resumo": "O Office 365 é uma coleção de aplicativos da Microsoft que reúne as melhores ferramentas para as pessoas trabalharem de forma colaborativa e produtiva. Este conteúdo é composto de sete vídeos, nos quais você aprenderá algumas funcionalidades da ferramentaOutlook, para que possa trabalhar, de maneira eficiente, com e-mail. ATENÇÃO: Seus conhecimentos serão testados por meio de um Quiz e não de uma avaliação e, ao final, você receberá um Certificado de Participação.",
+    "carga_horaria": "1h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-office-365-conhecendo-o-outlook",
+    "conteudo": [
+      "Vídeo 1 – Conhecendo o Outlook",
+      "Vídeo 2 – Redija um e-mail",
+      "Vídeo 3 – Compartilhando por e-mail",
+      "Vídeo 4 – Exibir e-mail não lido",
+      "Vídeo 5 – Responder mensagens de e-mail",
+      "Vídeo 6 – Pesquisar ou filtrar seu e-mail",
+      "Vídeo 7 – Criar uma assinatura de e-mail"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft Office 365 - Conhecendo o Planner",
+    "area_tema": null,
+    "descricao_resumo": "O Office 365 é uma coleção de aplicativos da Microsoft que reúne as melhores ferramentas para as pessoas trabalharem de forma colaborativa e produtiva. Este conteúdo é composto de sete vídeos, nos quais você aprenderá algumas funcionalidades da ferramenta Planner, para que possa trabalhar, de maneira eficiente, com a organização do trabalho em equipe. ATENÇÃO: Seus conhecimentos serão testados por meio de um Quiz e não de uma avaliação e, ao final, você receberá um Certificado de Participação.",
+    "carga_horaria": "1h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-office-365-conhecendo-o-planner",
+    "conteudo": [
+      "Vídeo 1 – Conhecendo o Planner",
+      "Vídeo 2 – Criando um novo plano",
+      "Vídeo 3 – Adicionando novos membros",
+      "Vídeo 4 – Adicionando um novo bucket",
+      "Vídeo 5 – Visualizando o Planner",
+      "Vídeo 6 – Visualizando minhas tarefas",
+      "Vídeo 7 – Utilizando o Hub do Planner"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft Office 365 - Conhecendo o Teams",
+    "area_tema": null,
+    "descricao_resumo": "O Office 365 é uma coleção de aplicativos da Microsoft que reúne as melhores ferramentas para as pessoas trabalharem de forma colaborativa e produtiva. Este curso é composto de sete vídeos, nos quais você aprenderá algumas funcionalidades da ferramenta Teams, para que possa trabalhar, de maneira eficiente, com uma plataforma de comunicação e colaboração no local de trabalho. ATENÇÃO: Seus conhecimentos serão testados por meio de um Quiz e não de uma avaliação e, ao final, você receberá um Certificado de Participação.",
+    "carga_horaria": "1h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-office-365-conhecendo-o-teams",
+    "conteudo": [
+      "Vídeo 1 – Integrar a Equipe",
+      "Vídeo 2 – Equipes e canais",
+      "Vídeo 3 – Usando guias",
+      "Vídeo 4 – Conversas produtivas",
+      "Vídeo 5 – Chamadas e conversas privadas",
+      "Vídeo 6 – Reunir agora",
+      "Vídeo 7 – Agendar reunião"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft PowerPoint 2016 - Avançado",
+    "area_tema": null,
+    "descricao_resumo": "Neste curso, você conhecerá novos elementos e as funções disponíveis para enriquecer ainda mais as suas apresentações! Este curso está organizado em quatro módulos. O primeiro, aborda o uso de objetos gráficos, como o SmartArt, a utilização de vídeos, sons, entre outros elementos. No segundo módulo, você aprenderá a criar uma nova apresentação, com base em um conjunto de imagens chamado Álbum de Fotografias. A grande vantagem de utilizar esse recurso é que todas as imagens são formatadas de uma só vez! Na sequência, você vai aprender a trabalhar com tabelas e planilhas, para ajudá-lo(a) a apresentar seus dados de forma mais organizada. Também conhecerá os procedimentos para inserção de cabeçalho e rodapé, botões de ação e hiperlink. Por fim, você conhecerá outros recursos, como slide mestre, linhas de grade e transmissão da apresentação. Utilizando todos esses recursos que o PowerPoint 2016 oferece, você economizará tempo e criará apresentações bem sofisticadas. Ao longo do curso, você será convidado a solucionar uma série de exercícios para que o processo de ensino e aprendizagem sejamais eficaze significativo.",
+    "carga_horaria": "8h",
+    "nivel_dificuldade": "Avançado",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-powerpoint-2016-avancado",
+    "conteudo": [
+      "Módulo 1 – SmartArt",
+      "Módulo 2 – Álbum de Fotografias",
+      "Módulo 3 – Tabelas e Planilhas",
+      "Módulo 4 – Slide Mestre"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia do curso Microsoft PowerPoint 2016 - Básico.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft PowerPoint 2016 - Básico",
+    "area_tema": null,
+    "descricao_resumo": "Neste curso você encontrará atividades importantes para aprimorar seus conhecimentos sobre o PowerPoint! Você pode criar, editar e gerenciar apresentações trabalhando com elementos gráficos, como imagens de arquivo, imagens do clip-art, formas e ferramentas, que o(a) auxiliarão na localização e revisão de textos. Você verá, também, como trabalhar com elementos gráficos, caixa de texto, formatação de texto, marcadores, numeração e edição de WordArt. Você aprenderá, de forma simples, a aprimorar suas apresentações, aplicando efeitos de animação e transição de slides, revisão ortográfica, entre outras ações. No decorrer do curso, você será convidado(a) a solucionar uma série de exercícios para ajudar na fixação dos conceitos desenvolvidos durante os módulos.",
+    "carga_horaria": "8h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-powerpoint-2016-basico",
+    "conteudo": [
+      "Módulo 1 – Iniciando o PowerPoint",
+      "Módulo 2 – Editando apresentações",
+      "Módulo 3 – Trabalhando com elementos gráficos",
+      "Módulo 4 – Aprimorando apresentações"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft Word 2016 - Avançado",
+    "area_tema": null,
+    "descricao_resumo": "Nos cursos MicrosoftWord 2016 - Básico eMicrosoftWord 2016 - Intermediário você teve uma visão dos principais recursos do aplicativo, como comandos, guias e formatações fundamentais que o(a) auxiliaram a trabalhar com imagens, tabelas, entre outros elementos gráficos. Além disso, você aprendeu a enriquecer seu documento com a formatação de páginas e textos artísticos. Neste curso,você conhecerá outras funções e elementos que o(a) ajudarão a aprimorar ainda mais seus documentos! No primeiro módulo, você aprenderá a inserir notas de rodapé e de fim, sumário, citações, bibliografia, legendas e índices das ilustrações. Já no segundo, você aprenderá sobre mala direta e suas funcionalidades. E, por fim, no terceiro módulo, você conhecerá um pouco mais sobre revisão de documentos, utilizando opções de comparação e comentários e, ainda, aprenderá a proteger seu documento contra alterações. Durante o curso, você será convidado(a) a solucionar alguns exercíciospara fixar o conteúdo e tornar o seu aprendizado muito mais significativo. Tudo isso para que você possa criar e trabalhar com documentos de maneira cada vez mais profissional.",
+    "carga_horaria": "8h",
+    "nivel_dificuldade": "Avançado",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-word-2016-avancado",
+    "conteudo": [
+      "Módulo 1 – Finalizando o documento",
+      "Módulo 2 – Trabalhando com mala direta",
+      "Módulo 3 – Trabalhando com revisão"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia dos cursos Microsoft Word 2016 – Básico e Microsoft Word 2016 – Intermediário.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft Word 2016 - Básico",
+    "area_tema": null,
+    "descricao_resumo": "Neste curso, você encontrará informações importantes para aprimorar seus conhecimentos sobre o Word, que é o editor de textos da Microsoft! Com o Word, você pode criar qualquer tipo de documento que envolva textos, quadrinhos, revistas, panfletos, jornais, etc. Além disso, você pode enriquecer o seu documento, utilizando tabelas, gráficos, imagens, índices emuitos outros recursos. Este curso aborda alguns temas, como gerenciamento de documentos; salvar, editar e imprimir documentos; enviar documentos por e-mail; localizar e substituir textos; revisão de texto; copiar partes de um documento; utilizar estilos rápidos e formatar caracteres e parágrafos. No decorrer do curso você será convidado(a) a solucionar uma série de exercícios para ajudar na fixação dos conceitos desenvolvidos durante os módulos. Esperamos que esses conhecimentos estimulem você a dar sequência aos seus estudos, pois em nosso catálogo você também encontrará as versões intermediária e avançada deste curso.",
+    "carga_horaria": "9h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-word-2016-basico",
+    "conteudo": [
+      "Módulo 1 – Introdução",
+      "Módulo 2 – Editando o documento",
+      "Módulo 3 – Formatando o documento"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Microsoft Word 2016 - Intermediário",
+    "area_tema": null,
+    "descricao_resumo": "No curso básico, você teve uma visão dos principais comandos, guias e formatações fundamentais. Agora, neste curso, aprofundaremos alguns aspectos que podem tornar seu documento ainda mais completo! Você conhecerá novos elementos e funções disponíveis. Trabalhará com imagens, tabelas e aprenderá a formatar as páginas. Você também aprenderá a trabalhar com gráficos, a inserir cabeçalhos e rodapés personalizados, a estilizar textos, entre muitos outros recursos que o(a) ajudarão a desenvolver documentos com aparência profissional ou mesmo a realizar trabalhos escolares que impressionem até os professores mais exigentes!",
+    "carga_horaria": "12h",
+    "nivel_dificuldade": "Intermediário",
+    "link_curso": "https://www.ev.org.br/cursos/microsoft-word-2016-intermediario",
+    "conteudo": [
+      "Módulo 1 – Trabalhando com elementos gráficos",
+      "Módulo 2 – Trabalhando com tabelas",
+      "Módulo 3 – Aprimorando documentos e vinculando arquivos"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia do curso Microsoft Word 2016 - Básico.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Organização Pessoal",
+    "area_tema": null,
+    "descricao_resumo": "Você é do tipo que se atrasa com frequência para compromissos ou, então, que tenta resolver mil atividades ao mesmo tempo, e, no fim, descobre que acabou esquecendo de realizar tarefas importantes, com prazos pré-determinados? A vida de quem é desorganizado não é fácil, sem contar o tempo que se perde simplesmente porque não existe o menor controle sobre a própria rotina. E isso vale para todos os aspectos, seja na vida pessoal, escolar ou até mesmo no trabalho. Se este é o seu caso, este curso foi criado especialmente para você! Aqui, você encontra informações importantes sobre a organização pessoal, com dicas básicas para administrar melhor seu tempo, suas atividades e até mesmo a gestão financeira. Para começar, você responderá a um teste para avaliar como anda sua organização. Depois, por meio de conteúdo teórico dividido em cinco módulos, exemplos práticos e atividades de fixação, nosso curso mostrará como a organização pode trazer benefícios imediatos para seu dia a dia, e como o planejamento é essencial para mudar o jeito de você lidar com suas tarefas.",
+    "carga_horaria": "10h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/organizacao-pessoal",
+    "conteudo": [
+      "Módulo 1 – Por que ser organizado?",
+      "Módulo 2 – Em casa, na escola e no trabalho",
+      "Módulo 3 – Administração do tempo",
+      "Módulo 4 – Organização financeira",
+      "Módulo 5 – Organizando o currículo"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "15",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Postura e Imagem Profissional",
+    "area_tema": null,
+    "descricao_resumo": "O objetivo deste curso é apresentar a importância da imagem no ambiente profissional, com base nas principais práticas do mercado e com foco em Psicologia Organizacional, Administração, Gestão de Pessoas, Coaching e Projetos. Você poderá construir um novo olhar entre a questão da imagem, postura e convivência social, pois o curso demonstrará como é importante aprimorar esses pontos em seu convívio pessoal e profissional. Você poderá criar e realizar uma manutenção de sua imagem profissional com as melhores práticas para uma boa convivência no ambiente de trabalho. Todo o conteúdo é abordado de forma bem didática para você perceber que essas condutas podem ser realizadas por todos, de uma maneira bem descomplicada!",
+    "carga_horaria": "8h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/postura-e-imagem-profissional",
+    "conteudo": [
+      "Módulo 1 – Imagem pessoal e imagem profissional",
+      "Módulo 2 – Postura e convivência social",
+      "Módulo 3 – Cultura organizacional e individualidade"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "PowerPoint na Prática",
+    "area_tema": null,
+    "descricao_resumo": "O curso de PowerPoint é indicado para que quem deseja desenvolver habilidades para criar apresentações impactantes e relevantes. Com sua interface intuitiva, você será capaz de criar apresentações personalizadas para suas palestras, seminários, reuniões, projetos e trabalhos acadêmicos. Matricule-se e adquira as competências para criar apresentações com uso do PowerPoint, utilizando variedade de funções para edição e tratamento de imagens; reprodução, edição e captura de vídeos; animações, efeitos e interações através de links que torna suas apresentações mais criativas e envolventes. Detalhes: Curso livre de 16 horas Acesso 100% online Estude no seu próprio ritmo Conteúdo Estruturado em Módulos Orientações sobre funções visualizando telas do PowerPoint Vídeos demonstrativos para fácil entendimento Atividades práticas Avaliação e Certificação Conclusão depende de 100% das atividades realizadas Avaliação final com mínimo de 70% de aproveitamento Certificado gratuito após aprovação",
+    "carga_horaria": "16h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/powerpoint-na-pratica",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para realização do curso.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Processo de Julgamento e Tomada de Decisões Responsáveis",
+    "area_tema": null,
+    "descricao_resumo": "No seu dia a dia, você precisa tomar muitas decisões, e para tomá-las usará dois sistemas cerebrais: o automático e o elaborado. O curso apresenta os conceitos desses dois sistemas, como eles se diferem quando estão em ação nas mais diversas situações. Além disso, o curso procura trazer subsídios para entender erros sistemáticos de julgamento, com o intuito de estruturar estratégias cognitivas e comportamentais para minimizar esses erros.",
+    "carga_horaria": "4h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/Processo-Julgamento-Decisoes-responsaveis",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Regulação da Preocupação e da Ansiedade",
+    "area_tema": null,
+    "descricao_resumo": "Será que é possível manejar preocupação, ansiedade ou seremos sempre reféns dessas emoções? A ciência vem trazendo boas notícias. Sim, é possível lidar com essas emoções! E o primeiro passo para conseguir fazer isso é entender como elas nascem, o que elas significam e como o nosso cérebro reforça e estrutura essas emoções. Neste curso são apresentadas estratégias efetivas, baseadas em evidências científicas, para compreender os estados do medo e regular a preocupação e a ansiedade improdutivas. O conteúdo é composto por quatro aulas, contendo vídeos, exercícios personalizados e práticas para aplicar a regulação no dia a dia.",
+    "carga_horaria": "4h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/regulacao-da-preocupacao-e-da-ansiedade",
+    "conteudo": [
+      "Aula 1 – Medo, emoção e sentimento",
+      "Aula 2 – Regulação do medo",
+      "Aula 3 – Os estados do medo",
+      "Aula 4 – Um \"P.A.R.E.\" no medo improdutivo"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Resiliência",
+    "area_tema": null,
+    "descricao_resumo": "Quando lemos reportagens que falam sobre as características desejáveis para os profissionais do século 21, é muito comum que a resiliência esteja em primeiro lugar. Mas você sabe o que é resiliência? Resiliência é a capacidade de enfrentar e superar as adversidades e, mais do que isso, a capacidade de aprender com elas. Esse termo foi emprestado da Física e, na Física, dizemos que a resiliência é a propriedade de um corpo sofrer uma tensão, sem que ocorra uma deformação permanente. É o que acontece com uma mola ou com um elástico. O termo passou a ser usado nas Ciências Humanas e na Psicologia para descrever a nossa competência de superar as adversidades. Ser resiliente é também ser flexível e criativo. A notícia boa é que a resiliência ela não é um dom ou uma competência inata. Ela pode ser desenvolvida e aprimorada ao longo da vida! Neste curso você aprenderá a reconhecer a importância da perseverança para a realização pessoal e profissional e conhecerá estratégias efetivas para o aumento da resiliência. O conteúdo é composto por seis aulas, contendo vídeos, exercícios personalizados e práticas para aplicar no dia a dia.",
+    "carga_horaria": "4h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/resiliencia",
+    "conteudo": [
+      "Aula 1 – O que é Resiliência?",
+      "Aula 2 – É sempre possível aprender",
+      "Aula 3 – Esforço e Talento",
+      "Aula 4 – Pensando sobre os pensamentos",
+      "Aula 5 – Mais que apenas explicações",
+      "Aula 6 – Esperança se constrói"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "14",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Scratch, suas extensões e computação física",
+    "area_tema": null,
+    "descricao_resumo": "Este curso aborda uma introdução à computação física e possibilidades de uso com as extensões do ambiente de programação Scratch, que permitem criações fantásticas em diversos projetos. Quando se fala em programação física, é comum a relação que se faz com a robótica, mas elas não são sinônimas. A criação de um robô envolve a montagem mecânica, a eletrônica e a programação. Já a programação física se relaciona com a integração entre programação e artefatos físicos, não sendo necessária uma montagem mecânica específica. A ideia de trabalhar com a computação física fez surgir soluções criativas e acessíveis, por incluir nos projetos o uso de materiais e placas de prototipagem de baixo custo e que podem ser conectadas a uma variedade de objetos, criando um grande potencial de engajamento dos estudantes.",
+    "carga_horaria": "6h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/scratch-suas-extensoes-e-computacao-fisica",
+    "conteudo": [
+      "Introdução",
+      "Módulo 1 – Introdução à Computação Física",
+      "Módulo 2 – Scratch e o Mundo Físico",
+      "Módulo 3 – Desenvolvendo Competências",
+      "Módulo 4 – Reflexões Finais e Sistematização"
+    ],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para a realização deste curso.",
+      "Idade mínima": "18",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Soluções de IA no GitHub",
+    "area_tema": null,
+    "descricao_resumo": "O GitHub é uma plataforma baseada em nuvem que utiliza o Git, um sistema de controle de versão distribuído como núcleo. A plataforma simplifica o processo de colaboração em projetos e fornece um site, ferramentas de linha de comando e um fluxo geral que permite que desenvolvedores e usuários trabalhem juntos. Durante o curso, você vai embarcar nesta jornada, em que estará contribuindo para o futuro do desenvolvimento do software e todas as tecnologias alimentadas por aplicativos. Esta trajetória perpassa pelo GitHub Copilot e seus benefícios, depois avança para o GitHub Codespaces mostrando seu ambiente hospedado na nuvem e finalmente você aprenderá que são GitHubs Actions, o fluxo de ação e seus elementos. Isso permitirá a você dedicar mais tempo ao que realmente importa: desenvolver aplicativos que mudam o mundo para melhor.",
+    "carga_horaria": "15h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/github",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Recomendamos a realização prévia dos cursos FluêncIA e AI-900 - Fundamentos de IA no Azure.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  },
+  {
+    "titulo": "Word na Prática",
+    "area_tema": null,
+    "descricao_resumo": "Este curso é a oportunidade perfeita para aprimorar suas habilidades de edição de textos e criar documentos que realmente se destacam. Com o Microsoft Word, você poderá criar, editar e formatar textos para diversas finalidades, seja no meio acadêmico, em escritórios ou para uso doméstico. Aprenda a produzir documentos profissionais com revisão ortográfica e gramatical impecáveis. Dominar esta ferramenta é essencial para a criação de documentos oficiais, relatórios, memorandos, contratos, manuais, projetos, trabalhos acadêmicos, redações, organização pessoal e até currículos. Matricule-se agora e descubra a versatilidade desta poderosa ferramenta de edição de textos, amplamente utilizada no mercado de trabalho. Transforme suas ideias em documentos de alta qualidade e impressione a todos com suas habilidades! Detalhes Curso livre de 16 horas Acesso 100% online Estude no seu próprio ritmo Conteúdo Estruturado em Módulos Orientações sobre funções visualizando telas do Word Vídeos demonstrativos para fácil entendimento Atividades práticas Avaliação e Certificação Conclusão depende de 100% das atividades realizadas Avaliação final com mínimo de 70% de aproveitamento Certificado gratuito após aprovação",
+    "carga_horaria": "16h",
+    "nivel_dificuldade": "Iniciante",
+    "link_curso": "https://www.ev.org.br/cursos/word-na-pratica",
+    "conteudo": [],
+    "detalhes": {
+      "Pré-requisitos": "Não há pré-requisitos para realização do curso.",
+      "Idade mínima": "16",
+      "Prazo": "Você terá 60 dias para concluir este curso.",
+      "não efetive matrícula em nenhum curso no prazo de 45 (quarenta e cinco) dias": "ESCOLA VIRTUAL"
+    }
+  }
+]
