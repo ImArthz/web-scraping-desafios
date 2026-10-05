@@ -114,6 +114,9 @@ cd ../xkcd
 python scraper_xkcd.py --limit 10 --output-dir tirinhas
 ```
 
+## 📄 Licença
+Distribuído sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 ---
 
 ## 👨‍💻 Autor
