@@ -120,5 +120,6 @@ Distribuído sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais
 ---
 
 ## 👨‍💻 Autor
-Desenvolvido por **Desenvolvedor / Engenharia de Dados**.
+Desenvolvido por **Arthur
+**.
 Soluções elaboradas com foco em performance, código limpo, tratamento de exceções e integridade de dados.
