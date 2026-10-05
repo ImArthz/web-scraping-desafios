@@ -120,6 +120,27 @@ Distribuído sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais
 ---
 
 ## 👨‍💻 Autor
-Desenvolvido por **Arthur
-**.
-Soluções elaboradas com foco em performance, código limpo, tratamento de exceções e integridade de dados.
+
+<div align="center">
+  <a href="https://github.com/ImArthz">
+    <img src="https://avatars.githubusercontent.com/u/135072001?s=400&u=c0236aed9621fc4fbe0823f2bc8d1781c31bcd04&v=4" width="130" style="border-radius: 50%;" alt="Arthur Mendonça"/>
+  </a>
+
+  <h3>Arthur Mendonça</h3>
+  <p><strong>Computer Engineering Student at CEFET-MG Divinópolis</strong></p>
+
+  <p>
+    <a href="https://github.com/ImArthz">
+      <img src="https://img.shields.io/badge/GitHub-ImArthz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/arthur-mendon%C3%A7a-a0a073301/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://discordapp.com/users/imarthz">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="mailto:mendoncaoarthur@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
